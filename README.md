@@ -14,7 +14,7 @@ It is worth to have principles to keep organized:
 
 ## Structure
 
-```bash
+```
 ├── README.md            <- Description of the project with comments
 |                           about the files that are included.
 |
