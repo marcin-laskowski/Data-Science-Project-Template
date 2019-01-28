@@ -1,0 +1,8 @@
+# local package
+-e .
+
+# external requirements
+python3.6
+
+# backwards compatibility
+
