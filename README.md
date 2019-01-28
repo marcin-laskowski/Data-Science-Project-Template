@@ -37,7 +37,9 @@ It is worth to have principles to keep organized:
 │   ├── processed        <- The final data sets for modelling.
 │   └── raw              <- The original, immutable data.
 |
-├── docker               <- docker file and docker compose
+├── Dockerfile           <- docker file
+|
+├── docker-compose.yml   <- docker compose
 |
 ├── docs                 <- additional documents
 │
