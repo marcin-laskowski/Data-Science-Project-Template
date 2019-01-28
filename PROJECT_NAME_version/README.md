@@ -5,12 +5,13 @@ Short project description what is it about.
 
 ## Description
 
-Detailed description about the project
+Detailed description about the project.
 
 
 ## Preparation
 
 Project environment preparation.
+First, change the name of the folder from 'dataset' to 'data'.
 
 ```bash
 pip install -r /path/to/requirements.txt
