@@ -1,2 +1,2 @@
-# Data-Science-Project-Template
+# Data Science Project Template
 Project Template for Data Science
